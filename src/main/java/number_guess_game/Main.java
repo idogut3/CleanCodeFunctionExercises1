@@ -4,7 +4,7 @@
 //  Created by Apollo Zhu on 7/21/16.
 //  Copyright © 2015-2016 WWITDC. All rights reserved.
 //
-package NumberGuessGame;
+package number_guess_game;
 
 import java.util.Scanner;
 import java.util.Random;

@@ -1,10 +1,4 @@
-//
-//  NumberGuessGame.java
-//
-//  Created by Apollo Zhu on 7/21/16.
-//  Copyright © 2015-2016 WWITDC. All rights reserved.
-//
-package Happy_birthday;
+package happy_birthday;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
